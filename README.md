@@ -21,10 +21,10 @@
 ## 👨‍💻 Sobre Mí
 
 - 💼 Actualmente trabajando como **Desarrollador Full Stack** en HLC Ingeniería y Construcción
-- 🌱 Estudiante de **Ingeniería de Sistemas** en UNTELS (X Ciclo)
-- 🔭 Especializado en **Java, Spring Boot, AWS y Angular**
+- 🌱 Egresado de la carrera profesinal **Ingeniería de Sistemas** en la UNTELS
+- 🔭 Especializado en **Java, Spring Boot, AWS, Angular y Vue**
 - 📚 Autodidacta apasionado por las nuevas tecnologías
-- 🎯 Objetivo: Crear soluciones escalables y eficientes
+- 🎯 Objetivo: Crear soluciones escalables, reducción de costos y eficientes
 
 ## 🛠 Stack Tecnológico
 
@@ -67,6 +67,12 @@
 **Gestor de Soporte y DBA** *(Marzo 2023 - Enero 2024)*  
 - Optimización de bases de datos PostgreSQL/MySQL
 - Soporte técnico y resolución de incidencias
+
+### Overskull
+**Gestión de Soporte y Desarrollo** *(Enero 2022 - Junio 2024)*  
+- Backend para sistema de seguimiento de envíos
+- Integración con APIs de transporte y pagos
+-Módulo de reporting para operaciones logísticas
 
 ## 🏆 Certificaciones Recientes
 

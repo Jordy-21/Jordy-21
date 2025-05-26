@@ -21,7 +21,7 @@
 ## 👨‍💻 Sobre Mí
 
 - 💼 Actualmente trabajando como **Desarrollador Full Stack** en HLC Ingeniería y Construcción
-- 🌱 Egresado de la carrera profesinal **Ingeniería de Sistemas** en la UNTELS
+- 🌱 Egresado de la carrera profesional **Ingeniería de Sistemas** en la UNTELS
 - 🔭 Especializado en **Java, Spring Boot, AWS, Angular y Vue**
 - 📚 Autodidacta apasionado por las nuevas tecnologías
 - 🎯 Objetivo: Crear soluciones escalables, reducción de costos y eficientes
